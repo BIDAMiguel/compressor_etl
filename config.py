@@ -1,0 +1,4 @@
+SERVER_IP = '172.31.73.89'
+SENSOR_COUNT = 25
+SERVER = 'PBI11305\SQLEXPRESS'
+DATABASE = 'conditionbasedmonitoring'
