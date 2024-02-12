@@ -5,3 +5,7 @@ SCOPE: Written specifically to extract data from the Banner PLC deployed at the 
 SYSTEM ARCHITECTURE:
 ![image](https://github.com/BIDAMiguel/compressor_etl/assets/156170891/21a182ad-564d-4035-9e24-d8db7c6cdf66)
 
+USAGE:
+In the command line: go to the directory of the repository and run the following commands:
+compressor ETL: python3 app.py
+API: python3 flaskapp.py
